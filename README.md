@@ -1,2 +1,2 @@
-# Pyrhon
+# Python
 Various Python Projects
